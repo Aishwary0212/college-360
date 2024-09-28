@@ -75,6 +75,12 @@ section p {
 }
 
 @media (max-width: 768px) {
+    nav ul {
+        display: flex;
+        justify-content: space-evenly;
+        list-style-type: none;
+        padding: 0;
+    }
 
     #img_logo img{
         width: 100%;
