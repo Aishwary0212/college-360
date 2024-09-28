@@ -36,12 +36,13 @@ nav ul li {
 nav ul li a {
     color: rgb(255, 255, 255);
     text-decoration: none;
-    transition: color 0.3s;
+    transition: color s;
 }
 #up{
     ul li a:hover{
         color: #ff0000;
     }
+    font-family: fantasy;
 }
 #down{
     ul li a:hover{
