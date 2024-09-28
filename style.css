@@ -36,9 +36,10 @@ nav ul li a {
     text-decoration: none;
     transition: color 0.3s;
 }
-
-nav ul li a:hover {
-    color: I #ff0000;
+#up{
+    ul li a:hover{
+        color: #ff0000;
+    }
 }
 #down{
     ul li a:hover{
