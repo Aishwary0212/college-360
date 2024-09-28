@@ -10,15 +10,15 @@ body {
     margin: 0 auto;
     display: block;
     position: relative;
-    left: 25%;
+    left: 20%;
 }
 
 header {
     background-color: hsl(174, 70%, 42%);
     color: white;
     padding: 15px;
+        
 }
-
 nav ul {
     display: flex;
     justify-content: space-evenly;
