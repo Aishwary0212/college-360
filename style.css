@@ -88,6 +88,9 @@ section p {
     body{
         overflow-x: hidden;
     }
+    #up{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
     header {
         background-color: hsl(174, 70%, 42%);
         color: white;
