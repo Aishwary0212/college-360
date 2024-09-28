@@ -14,9 +14,10 @@ body {
 }
 
 header {
-    background-color: #9a6e9a;
+    background-color: hsl(174, 70%, 42%);
     color: white;
     padding: 15px;
+    width:100%;
 }
 
 nav ul {
@@ -38,7 +39,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #00aeff;
+    color: I #ff0000;
+}
+#down{
+    ul li a:hover{
+        color:#08dbf7
+    }
 }
 
 main {
