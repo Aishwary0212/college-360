@@ -42,7 +42,7 @@ nav ul li a {
     ul li a:hover{
         color: #ff0000;
     }
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #down{
     ul li a:hover{
