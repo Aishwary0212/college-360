@@ -85,6 +85,9 @@ section p {
 }
 
 @media (max-width: 768px) {
+    body{
+        overflow-x: hidden;
+    }
     header {
         background-color: hsl(174, 70%, 42%);
         color: white;
