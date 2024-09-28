@@ -24,6 +24,8 @@ nav ul {
     justify-content: space-evenly;
     list-style-type: none;
     padding: 0;
+    width:100%;
+    flex-wrap: wrap;
 }
 
 nav ul li {
